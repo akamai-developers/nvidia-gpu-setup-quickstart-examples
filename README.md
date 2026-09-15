@@ -13,6 +13,7 @@ The examples are designed to show the progression from verifying GPU access to r
 
 
 # Directory structure 
+```
 nvidia-gpu-setup-quickstart-examples/
 │
 ├── README.md
@@ -24,3 +25,4 @@ nvidia-gpu-setup-quickstart-examples/
 │
 └── 04_cuda_from_source/
     └── vector_add.cu
+```
