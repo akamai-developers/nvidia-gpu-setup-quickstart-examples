@@ -15,14 +15,11 @@ The examples are designed to show the progression from verifying GPU access to r
 # Directory structure 
 ```
 nvidia-gpu-setup-quickstart-examples/
-│
 ├── README.md
 ├── requirements.txt
-│
 ├── 01_check_gpu.py
 ├── 02_gpu_computation.py
 ├── 03_vllm_inference.py
-│
 └── 04_cuda_from_source/
     └── vector_add.cu
 ```
